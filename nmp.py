@@ -1,3 +1,5 @@
+# cnn implements with numpy
+
 import numpy as np
 
 # Activation function: ReLU
